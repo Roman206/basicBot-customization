@@ -100,7 +100,7 @@
         rulesLink: null,
         themeLink: null,
         fbLink: null,
-        youtubeLink: null,
+        youtubeLink: http://bit.ly/1OrBOQn,
         website: null,
         intervalMessages: [],
         messageInterval: 5,
